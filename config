@@ -1,0 +1,14 @@
+#details to get a valid token
+CLIENT_KEY=""
+CLIENT_SECRET=""
+
+#IPs to get token and database access
+WSO2_IP=
+DB_IP=
+
+#where to store the output
+filepath="/root/IssueHistory"
+
+#timestamps of start and end (e.g. monday 0:00 - sunday 23:59)
+start_time=1502668801000
+end_time=1503273599000
